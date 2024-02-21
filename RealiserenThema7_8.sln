@@ -25,7 +25,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hoofdstuk 8", "Hoofdstuk 8"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Oefeningen", "Oefeningen", "{CE81E9FF-824B-4899-8B3F-B763E9BBABC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening21", "Oefening21\Oefening21.csproj", "{E50408DD-66A2-438E-BC50-E5CEACCCA77A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{3EBEA568-5510-48CD-AFBB-F1CB94523C72} = {F0593E33-AE66-4011-BFE0-2C5857F9063A}
 		{81388720-949C-4758-A980-68DBE187BE16} = {F0593E33-AE66-4011-BFE0-2C5857F9063A}
 		{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA} = {A3EFC082-CF34-4596-8D3C-FF69FE2D28A8}
+		{E50408DD-66A2-438E-BC50-E5CEACCCA77A} = {CE81E9FF-824B-4899-8B3F-B763E9BBABC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF93BE25-F4E1-40BE-82CE-7B7ED0EFDB97}
