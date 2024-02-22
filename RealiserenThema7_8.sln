@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening21", "Oefening21\Oefening21.csproj", "{E50408DD-66A2-438E-BC50-E5CEACCCA77A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening22", "Oefening22\Oefening22.csproj", "{7B931762-170A-4D1B-B440-5054A52D4CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E50408DD-66A2-438E-BC50-E5CEACCCA77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B931762-170A-4D1B-B440-5054A52D4CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B931762-170A-4D1B-B440-5054A52D4CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B931762-170A-4D1B-B440-5054A52D4CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B931762-170A-4D1B-B440-5054A52D4CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{81388720-949C-4758-A980-68DBE187BE16} = {F0593E33-AE66-4011-BFE0-2C5857F9063A}
 		{93328ED9-3138-4012-AFE9-DCB2AD7C9ACA} = {A3EFC082-CF34-4596-8D3C-FF69FE2D28A8}
 		{E50408DD-66A2-438E-BC50-E5CEACCCA77A} = {CE81E9FF-824B-4899-8B3F-B763E9BBABC7}
+		{7B931762-170A-4D1B-B440-5054A52D4CEE} = {CE81E9FF-824B-4899-8B3F-B763E9BBABC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AF93BE25-F4E1-40BE-82CE-7B7ED0EFDB97}
